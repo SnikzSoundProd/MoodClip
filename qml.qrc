@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/qt/qml/MoodClip">
+        <file>main.qml</file>
+        <file>Theme.qml</file>
+        <file>qmldir</file>
+        <file>components/AppWindow.qml</file>
+        <file>components/Sidebar.qml</file>
+        <file>components/ScriptEditor.qml</file>
+        <file>components/StoryboardView.qml</file>
+        <file>components/StoryboardPage.qml</file>
+        <file>components/MoodboardCanvas.qml</file>
+        <file>components/MoodboardItem.qml</file>
+        <file>components/StickyNote.qml</file>
+        <file>components/ImageFrame.qml</file>
+        <file>components/ConnectionLine.qml</file>
+        <file>components/AssetGrid.qml</file>
+        <file>components/PageCounter.qml</file>
+        <file>dialogs/NewProjectDialog.qml</file>
+        <file>dialogs/ExportDialog.qml</file>
+        <file>dialogs/SettingsDialog.qml</file>
+    </qresource>
+</RCC>

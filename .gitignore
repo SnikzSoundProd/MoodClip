@@ -1,0 +1,40 @@
+# Build artifacts
+build/
+build_debug/
+cmake-build/
+compile/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Qt
+*.pro.user
+*.qmlc
+*.jsc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+startup.log
+
+# Project files (user data)
+*.moodclip
